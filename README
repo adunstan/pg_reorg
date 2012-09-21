@@ -1,0 +1,9 @@
+pg_reorg, PostgreSQL module for data reorganization
+===================================================
+
+This directory contains the source code distribution of pg_reorg, a
+PostgreSQL module allowing to reorganize a table without any locks.
+
+Copyright and license information can be found in the file COPYRIGHT.
+A comprehensive documentation set is included in this repository;
+it can be read as described in the installation instructions.
